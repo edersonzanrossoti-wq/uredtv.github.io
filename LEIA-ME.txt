@@ -1,0 +1,5 @@
+uRedTV - cópia recuperada da página MHTML enviada pelo usuário.
+
+Para publicar: crie o repositório uredtv.github.io na conta GitHub uredtv, envie index.html, style.css e a pasta assets à raiz, e ative Settings > Pages > Deploy from a branch > main / (root).
+
+O HTML/CSS/imagens foram extraídos da página offline; não são o projeto-fonte original do editor ChatGPT. A Twitch usa embed com parent=uredtv.github.io e exige que o site seja aberto neste domínio. Status ao vivo não é detectado automaticamente, pois o código dessa função não veio no arquivo salvo.
